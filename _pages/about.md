@@ -1,7 +1,7 @@
 ---
-title: About
-author: Tao He
-date: 2022-02-04
+title: About Me
+author: Richard Chompff
+date: 2024-03-12
 category: Jekyll
 layout: post
 ---
