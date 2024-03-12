@@ -1,16 +1,16 @@
 # Configurations
 title:            Jekyll Gitbook
 longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+author:           Richard Chompff
+email:            kettleandclock@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  An Illuminated RPG of Mechanical Animal Companions
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://kettleandclock.github.io'
-baseurl:          '/autostede'
+url:              'https://kettleandclock.github.io/autostede'
+baseurl:          '/'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
