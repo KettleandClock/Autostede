@@ -7,3 +7,6 @@ layout: post
 ---
 
 This is an about page.
+
+Go to https://kettleandclock.itch.io/autostede20 to buy a PDF version of the game with extended help, tips, and worldbuilding
+ 

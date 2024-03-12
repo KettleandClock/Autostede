@@ -1,0 +1,17 @@
+---
+title: Skills
+author: Richard Chompff
+date: 01-03
+category: Jekyll
+layout: post
+---
+# Drover Rolls
+When your drover does something risky, the GM will tell you which Attribute that is closest to. You roll that many dice, and choose a skill to represent what your character does. For each point you have in a skill, you get +1 to the result of the roll, plus an additional +1 if the skill is from your favourite mask. 
+Skills aren’t predetermined in how they work or when they should be used. They are more of a wide, sweeping gesture at proficiency in something.
+After you have rolled, you can choose to spend a skill, which temporarily lowers your proficiency in that skill but increases the result of your roll by one success bracket, so a failure becomes a success at a cost and success at a cost becomes a full success.
+
+# Recovering Spent Skills
+Once a Skill has been Spent, you can use a “Recovery” skill in order to recover it. Each mask has one skill labelled as recovery, which tend to be skills that, while in character for the mask, aren’t particularly useful. If you succeed on a roll using a recovery skill, you can recover up to 3 spent skill ratings. This can’t increase your ratings beyond their initial values. 
+
+# Upgrading Skills
+When you fail on a skill roll, mark one of the XP boxes in that mask. If all four boxes have been marked, you may clear them and put a point in any of the skills from that mask.

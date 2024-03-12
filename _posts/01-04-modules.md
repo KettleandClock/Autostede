@@ -1,0 +1,77 @@
+---
+title: Modules
+author: Richard Chompff
+date: 01-04
+category: Jekyll
+layout: post
+---
+# Modules
+A Module is a part of your stede that is special or significant in some way, and is what your stede uses to perform actions within the game. Modules generally don’t have a lot of flavour or theming attached, as they are designed to fit the style of the autostede, rather than the other way around. For example a claw module could just as easily be a hawk’s talons as it could be a wolf’s paw or a series of sharp spikes on a stick. 
+
+Each module has:
+>A Style, which defines an Attribute Bonus and an Attribute Malus
+>A Range and Damage Rating
+>An Ability
+ 
+# Quantum Modules
+While journeying through the wilderness you may manage to salvage working modules from wild stedes you encounter, or come across ancient, mysterious modules with unknown origins. 
+When you find a new module, it is remains unidentified until you choose to identify it. 
+To identify a module, first roll 1d6 to determine its rarity. If you roll a 6, then that dice “explodes” and you can roll it again. You may choose to spend any number of other unidentified modules to roll that many additional d6s to increase the chance of achieving a higher level. 
+It takes a certain amount of 6s for a module to begin at each level.
+
+|Level of Module|Number of 6s required|
+|:-:|:-:|
+|0|0|
+|1|1|
+|2|3|
+|3|6|
+|4|10|
+
+You must then draw a playing card and roll 1d6 to determine the form and style of the module
+
+# Styles
+There are six styles which give different attribute bonuses and maluses:
+|Style|Bonus|Malus|
+|:-:|:-:|:-:|
+|Scrap|Power|Precision|
+|Bulky|Power|Handling|
+|Sleek|Handling|Power|
+|Primal|Handling|Precision|
+|Energy|Precision|Handling|
+|Refined|Precision|Power|
+
+# Installing new Modules
+New modules can be inserted into empty slots on the play sheet, or can replace existing modules, so long as you have access to a mechanic, or can make a successful Fix(Tinker) roll. A success with a consequence on such a roll means that you installed the new module but broke the old one. Using a mechanic always works flawlessly, but they are only available in towns. 
+As you swap in and out modules, your attributes will change. Each attribute is made up of the bonuses from each of the modules attached to the autostede, so when you remove a module, the autostede loses that module’s bonus, and when you install a module, the autostede gains that module’s bonus. 
+
+# Upgrading Modules
+You can trade identified modules with a mechanic to upgrade one of your existing modules. The cost of an upgrade is dependent on the current level of the module;
+Level 0 to Level 1 costs 2 modules
+Level 1 to Level 2 costs 4 modules
+Level 2 to Level 3 costs 6 modules
+Level 3 to Level 4 costs 8 modules 
+Each upgrade increases the Attribute Bonus, Attribute Malus and Damage of the module by 1
+
+# Autostede Rolls
+When your autostede attempts something, your GM tells you which Attribute that task falls under, and you roll that many dice onto your play sheet. In the centre of the play sheet is a map, and you attempt to roll your dice into that map. If any roll away from the map then you can either reroll them or just push them back on. 
+The segments in the map are all labelled, and the labels correspond either to the Frame or the three Modules that make up your stede, all of which are defined by the cards surrounding your play sheet. 
+When you make your roll, the segments that the dice land on represent the modules that the stede wants to use. You select one of those dice, which determines the module that the stede uses to carry out the task. 
+Each module has a Style, which defines one attribute bonus and one attribute malus. If the attribute that you rolled with matches the attribute bonus that the module is aligned to, then you get that bonus to the result of your roll, however if it matches the attribute malus then you get that malus to the result.
+If the die landed on the centre section, you may describe the action however you’d like, using any module, but it counts as the style of your autostede’s Frame.
+
+# Segments
+The individual shapes that make up the map on the play sheet are called “Segments” and represent the bond that you share with the stede. Segments are either Dormant (blank), Synced or Damaged. 
+If you roll two or more dice in segments from the same Module, then use one of those dice, you may Sync one Segment in that module. 
+If, when you roll, any dice land on a Synced Segment then that die’s result gets +1. Alternatively, you get a -1 to the result of all of the dice if any dice landed on Damaged Segments.
+
+# Damage
+If your autostede takes damage, roll a number of dice equal to the damage taken onto your stede sheet, as you would while taking an action. The numbers those dice roll don’t matter, but wherever those dice land the Segments are Damaged. If multiple dice land on a single segment, or dice land on already damaged segment, then they move to the closest non-damaged segment. 
+If all Segments in a Module are Damaged then that Module is considered Broken, and cannot be used, either for an action or its Ability (Mark the box on the module so that you remember this)
+If all of the Segments in the centre section are damaged then you only ever roll one die.
+These segments can still be fixed through other abilities, at which point those modules are no longer considered broken. 
+If every segment in the map is Damaged then you have a “Critical Mass" Moment. 
+
+# Critical Mass
+Once all of your segments are damaged, choose a Module, describe one epic action using that Module, and cross it off on your Stede Sheet. That Module can never again be used, and must be replaced or changed. The epic action you describe can have any effect you choose, up to and including destroying every current enemy. 
+
+
