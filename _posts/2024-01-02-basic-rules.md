@@ -1,7 +1,7 @@
 ---
 title: Basic Rules
 author: Richard Chompff
-date: 01-02
+date: 2024-01-02
 category: Jekyll
 layout: post
 ---
