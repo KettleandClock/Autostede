@@ -1,8 +1,5 @@
 ---
 title: Drover Creation
-author: Richard Chompff
-date: 2024-02-01
-category: Jekyll
 layout: post
 ---
 
@@ -34,18 +31,15 @@ Drovers are defined in the game by their mask. To make a drover, choose one of t
 <div class="table-wrapper" markdown="block">
 
 |Labourer| |Loud Mouth|
+|:-:|:-:|:-:|
 | |Looks| |
-: handmade, scavenged, oversized
-Skills: 
-Consider (Recovery)
-Charm
-Observe
-
-Looks: feathers, silk, ornate
-Skills:
-Brag (Recovery)
-Bluff
-Coordinate
+|Handmade| |Feathers|
+|Scavenged| |Silk|
+|Oversized| |Ornate|
+| |Skills| |
+|Consider (Recovery)| |Brag (Recovery)|
+|Charm| |Bluff|
+|Observe| |Coordinate|
 
 </div>
 
@@ -53,17 +47,15 @@ Coordinate
 
 <div class="table-wrapper" markdown="block">
 
-Tinkerer
-Looks: dishevelled, pockets, tools and trinkets
-Skills:
-Bewilder (Recovery)
-Fix
-Outmaneuver
-Stranger
-Looks: covered, shadow, glowing
-Skills:
-Wait (Recovery)
-Sneak
-Cheat
+|Tinkerer| |Stranger|
+|:-:|:-:|:-:|
+| |Looks| |
+|Dishevelled| |Covered|
+|Functional| |Shadow|
+|Knobs and Levers| |Glowing|
+| |Skills| |
+|Bewilder (Recovery)| |Wait (Recovery)|
+|Fix| |Sneak|
+|Outmaneuver| |Cheat|
 
 </div>

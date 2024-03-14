@@ -1,0 +1,63 @@
+Name,HP,Pack size,Damage,Size,Rarity,Frame Display,Weapon Display
+Springo,2,6,1,Small,Common,"Refined Pounce: Move one, then deal 1/2/4/6/9 Harm and knock over one close enemy",Bulky Lance: Deal 1/2/4/6/9 damage to all enemies near in a line
+Spearhead,7,1,1,Small,Common,"Sleek Pounce: Move one, then deal 1/2/4/6/9 Harm and knock over one close enemy",Scrap Lance: Deal 1/2/4/6/9 damage to all enemies near in a line
+Craftsman,3,5,1,Small,Common,Bulky Shell: Curl into a ball. You can move but not act while in ball form. If you take any damage while in ball form you come out of ball form instead,Energy Jaws: Grab on to one close enemy. They cannot move until you do
+Aplove,2,6,1,Small,Common,"Bulky Pounce: Move one, then deal 1/2/4/6/9 Harm and knock over one close enemy",Energy Wings: Make an attack against a Near enemy as though it is close
+Kookarang,2,6,1,Small,Common,"Scrap Swoop: If you dont attack, you counts as being one range further away",Sleek Horn/s: Move to Close to an enemy and deal 1/2/4/6/9 damage
+Bumbledog,3,5,1,Small,Common,Scrap Pack Tactics: You roll 1 extra dice if the enemy is close to an ally,Sleek Bombs: Deal 1/1/2/4/6 damage to all enemies in one row
+Pandat,6,2,1,Small,Common,"Scrap Swoop: If you dont attack, you counts as being one range further away",Bulky Tail: Knock over all close enemies. They must use their action to stand up
+Flangora,3,5,1,Small,Common,Bulky Stability: You can not be knocked over or moved by enemies,Energy Flamethrower: Deal 1/2/4/6/9 damage to all enemies close
+Flicka,3,5,1,Small,Common,Scrap Pack Tactics: You roll 1 extra dice if the enemy is close to an ally,Sleek Flamethrower: Deal 1/2/4/6/9 damage to all enemies close
+Planter,5,3,1,Small,Common,Bulky Stability: You can not be knocked over or moved by enemies,Scrap Hooves: Move to Far. Any enemies in the line that you moved take 1/2/4/6/9 damage
+Shellcase,4,4,1,Small,Common,Bulky Shell: Curl into a ball. You can move but not act while in ball form. If you take any damage while in ball form you come out of ball form instead,Energy EMP: Deactivate one close enemy
+Clocky,1,6,2,Medium,Common,"Primal Camoflague: If this stede doesn't move, it can't be attacked",Refined Boosters: Move one space
+Scraptail,6,3,2,Medium,Common,"Bulky Camoflague: If this stede doesn't move, it can't be attacked",Energy Graspers: Throw something smaller than you to Near. It and anything you throw it at take 1/2/4/6/9 damage
+Spikinya,4,4,2,Medium,Common,Energy Pack Tactics: You roll 1 extra dice if the enemy is close to an ally,"Scrap Quills: Pin one Far enemy to the floor, they have to use their action to get up."
+Terrafowl,1,6,2,Medium,Common,"Energy Pounce: Move one, then deal 1/2/4/6/9 Harm and knock over one close enemy",Energy Bombs: Deal 1/1/2/4/6 damage to all enemies in one row
+Bumblecanik,6,3,2,Medium,Common,Energy Pack Tactics: You roll 1 extra dice if the enemy is close to an ally,Scrap Stinger/Fangs: Poison one close enemy. They take 1/2/4/6/9 damage if they take an action
+Wirlibird,8,2,2,Medium,Common,"Energy Reactive Core: When you take damage, gain 1 charge",Bulky Wings: Make an attack against a Near enemy as though it is close
+Schkarven,2,5,2,Medium,Common,Energy Recycle: Heal one sync hex when you defeat an enemy,Energy Hammer: Deal 1/2/4/6/9 damage to a close enemy and push them to Near
+Frogert,6,3,2,Medium,Common,Bulky Alpha: You or a near ally can reroll one die,"Energy Shield: Block an incoming attack, it does 2/4/6/9/12 less damage"
+Crushdale,6,3,2,Medium,Common,"Bulky Trample: You can move into the same space an enemy, if you do, they take 1 harm.",Sleek Boosters: Move one space
+Larch,5,3,3,Large,Common,"Bulky Trample: You can move into the same space an enemy, if you do, they take 1 harm.",Bulky Horn/s: Move to Close to an enemy and deal 1/2/4/6/9 damage
+Buffalat,2,4,3,Large,Common,Bulky Recycle: Heal one sync hex when you defeat an enemy,Energy Boosters: Move one space
+Scavent,1,5,3,Large,Common,Scrap Stability: You can not be knocked over or moved by enemies,Scrap Beak: Roll a d6. Deal 1/1/2/4/6 damage to that many Close enemies
+Litongue,8,2,3,Large,Common,Energy Alpha: You or a near ally can reroll one die,Bulky Jaws: Grab on to one close enemy. They cannot move until you do
+Shredent,1,5,3,Large,Common,Scrap Stability: You can not be knocked over or moved by enemies,Scrap Beak: Roll a d6. Deal 1/1/2/4/6 damage to that many Close enemies
+Bullicade,2,3,4,Giant,Common,Bulky Recycle: Heal one sync hex when you defeat an enemy,"Energy Cannon: Target an enemy, it and all enemies close to it take 1/2/4/6/9 damage"
+Grubtrap,10,3,2,Small,Uncommon,"Primal Feral: Every turn, deal 1/1/2/4/6 damage to a close autostede",Refined Plating: Take 1/2/4/6 less damage
+Clockatoo,12,1,2,Small,Uncommon,Primal Recycle: Heal one sync hex when you defeat an enemy,Refined Wings: Make an attack against a Near enemy as though it is close
+Floatopus,10,3,2,Small,Uncommon,"Scrap Pounce: Move one, then deal 1/2/4/6/9 Harm and knock over one close enemy",Sleek Boosters: Move one space
+Porcelion,12,1,2,Small,Uncommon,"Scrap Pounce: Move one, then deal 1/2/4/6/9 Harm and knock over one close enemy",Sleek Flamethrower: Deal 1/2/4/6/9 damage to all enemies close
+Shredspawn,12,1,2,Small,Uncommon,Scrap Shell: Curl into a ball. You can move but not act while in ball form. If you take any damage while in ball form you come out of ball form instead,Scrap Claws: Deal 1/2/4/6/9 damage to one close enemy
+Rollabob,12,1,2,Small,Uncommon,Sleek Shell: Curl into a ball. You can move but not act while in ball form. If you take any damage while in ball form you come out of ball form instead,Energy Legs: Jump to anywhere
+Forgeback,11,3,3,Medium,Uncommon,"Bulky Shell: Curl into a ball. You can move but not act while in ball form. If you take any damage while in ball form you come out of ball form instead
+Bulky Recycle: Heal one sync hex when you defeat an enemy",Energy EMP: Deactivate one close enemy
+Kangawarry,11,3,3,Medium,Uncommon,"Scrap Tactician: When you take damage, all allies may move 1",Scrap Wings: Make an attack against a Near enemy as though it is close
+Spikadillo,11,3,3,Medium,Uncommon,Sleek Shell: Curl into a ball. You can move but not act while in ball form. If you take any damage while in ball form you come out of ball form instead,Scrap Blade: Deal 2/4/6/9/12 damage to one close enemy
+Pteranobomb,9,4,3,Medium,Uncommon,"Bulky Swoop: If you dont attack, you counts as being one range further away","Energy Shield: Block an incoming attack, it does 2/4/6/9/12 less damage"
+Scrab,9,4,3,Medium,Uncommon,Scrap Pack Tactics: You roll 1 extra dice if the enemy is close to an ally,Scrap Graspers: Throw something smaller than you to Near. It and anything you throw it at take 1/2/4/6/9 damage
+Screecher,7,5,3,Medium,Uncommon,"Sleek Pounce: Move one, then deal 1/2/4/6/9 Harm and knock over one close enemy",Scrap Wings: Make an attack against a Near enemy as though it is close
+Springpack,16,1,4,Large,Uncommon,"Refined Trample: You can move into the same space an enemy, if you do, they take 1 harm.
+Refined Pounce: Move one, then deal 1/2/4/6/9 Harm and knock over one close enemy",Bulky Jaws: Grab on to one close enemy. They cannot move until you do
+Missidile,16,1,4,Large,Uncommon,"Bulky Pounce: Move one, then deal 1/2/4/6/9 Harm and knock over one close enemy","Energy Cannon: Target an enemy, it and all enemies close to it take 1/2/4/6/9 damage"
+Scumslider,16,1,4,Large,Uncommon,Sleek Pack Tactics: You roll 1 extra dice if the enemy is close to an ally,"Sleek Generator: If you gain any charge, give one charge to an ally"
+Skalnir,13,2,4,Large,Uncommon,Bulky Stability: You can not be knocked over or moved by enemies,Energy Flamethrower: Deal 1/2/4/6/9 damage to all enemies close
+Sworpion,15,1,5,Giant,Uncommon,Bulky Alpha: You or a near ally can reroll one die,Energy Blade: Deal 2/4/6/9/12 damage to one close enemy
+Excalipede,27,1,4,Small,Rare,Energy Pack Tactics: You roll 1 extra dice if the enemy is close to an ally,Scrap Blade: Deal 2/4/6/9/12 damage to one close enemy
+Gowhela,25,3,4,Small,Rare,Scrap Hit and Run: If you hit with an attack you can move twice this turn,Bulky Graspers: Throw something smaller than you to Near. It and anything you throw it at take 1/2/4/6/9 damage
+Monitar,30,1,5,Medium,Rare,"Scrap Camoflague: If this stede doesn't move, it can't be attacked",Refined Blaster: Deal 1/2/4/6/9 damage to one Far enemy
+Sharkurai,30,1,5,Medium,Rare,"Sleek Feral: Every turn, deal 1/1/2/4/6 damage to a close autostede",Bulky Blade: Deal 2/4/6/9/12 damage to one close enemy
+Pearlter,28,2,5,Medium,Rare,Sleek Recycle: Heal one sync hex when you defeat an enemy,"Scrap Quills: Pin one Far enemy to the floor, they have to use their action to get up."
+Hurtz,22,5,5,Medium,Rare,"Energy Tactician: When you take damage, all allies may move 1",Bulky Claws: Deal 1/2/4/6/9 damage to one close enemy
+Radigo,31,1,6,Large,Rare,Sleek Stability: You can not be knocked over or moved by enemies,"Sleek Shield: Block an incoming attack, it does 2/4/6/9/12 less damage"
+Floodster,31,1,6,Large,Rare,"Bulky Camoflague: If this stede doesn't move, it can't be attacked","Sleek Generator: If you gain any charge, give one charge to an ally"
+Equillow,31,1,6,Large,Rare,"Energy Camoflague: If this stede doesn't move, it can't be attacked",Bulky Legs: Jump to anywhere
+Springking,30,1,7,Giant,Rare,"Refined Pounce: Move one, then deal 1/2/4/6/9 Harm and knock over one close enemy
+Refined Trample: You can move into the same space an enemy, if you do, they take 1 harm.",Bulky Hammer: Deal 1/2/4/6/9 damage to a close enemy and push them to Near
+Forgemother,30,1,7,Giant,Rare,"Bulky Shell: Curl into a ball. You can move but not act while in ball form. If you take any damage while in ball form you come out of ball form instead
+Bulky Tactician: When you take damage, all allies may move 1
+Bulky Recycle: Heal one sync hex when you defeat an enemy","Energy Generator: If you gain any charge, give one charge to an ally"
+Shockwhale,30,1,7,Giant,Rare,Bulky Hit and Run: If you hit with an attack you can move twice this turn,Energy EMP: Deactivate one close enemy
+Terrorlight,30,1,7,Giant,Rare,"Energy Swoop: If you dont attack, you counts as being one range further away",Bulky Drones: Fully fix all sync hexes in one module for a Close ally
+Whowait,61,1,9,Large,Legendary,"Energy Camoflague: If this stede doesn't move, it can't be attacked",Bulky Hooves: Move to Far. Any enemies in the line that you moved take 1/2/4/6/9 damage

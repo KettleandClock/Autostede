@@ -1,8 +1,5 @@
 ---
 title: Basic Rules
-author: Richard Chompff
-date: 2024-01-02
-category: Jekyll
 layout: post
 ---
 
@@ -14,8 +11,10 @@ There are three Attributes in Autostede; Power, Handling and Precision. These ar
 - An action of Precision is one where the character or stede is taking their time, acting in the perfect way at the perfect moment, such as picking a lock, carefully negotiating the dry spots in a swamp or lining up that one perfect shot.
 
 # Dice Rolls
-When you do something risky, describe what you intend to do and the GM tells you which Attribute that uses. Roll that many dice and choose a single result, add any relevant modifiers and;
+When you do something risky, describe what you intend to do and the GM tells you which Attribute that uses. Roll dice equal to your attribute rating and choose a single result, add any relevant modifiers and;
+
 - If your result is a 1-3, then you have failed. The GM will tell you what happens.
 - If your result is 4-5 then you have succeeded, but at a cost or with a condition.
 - If your result is 6 or more then you have succeeded.
+
 These dice rolls are modified further by Skills and Modules.
