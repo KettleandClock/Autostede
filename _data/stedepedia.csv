@@ -1,4 +1,4 @@
-Name,HP,Pack size,Damage,Size,Rarity,Frame Display,Weapon Display
+Name,HP,Pack size,Damage,Size,Rarity,Frame,Weapon
 Springo,2,6,1,Small,Common,"Refined Pounce: Move one, then deal 1/2/4/6/9 Harm and knock over one close enemy",Bulky Lance: Deal 1/2/4/6/9 damage to all enemies near in a line
 Spearhead,7,1,1,Small,Common,"Sleek Pounce: Move one, then deal 1/2/4/6/9 Harm and knock over one close enemy",Scrap Lance: Deal 1/2/4/6/9 damage to all enemies near in a line
 Craftsman,3,5,1,Small,Common,Bulky Shell: Curl into a ball. You can move but not act while in ball form. If you take any damage while in ball form you come out of ball form instead,Energy Jaws: Grab on to one close enemy. They cannot move until you do
