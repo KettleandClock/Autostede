@@ -1,0 +1,27 @@
+Name	Range	Base Damage	Ability	Charge Cost
+Horn/s	Close	4	Move to Close to an enemy and deal 1/2/4/6/9 damage	2
+Hydro Pump	Far	3	Push enemy to Far	2
+Flamethrower	Near	3	Deal 1/2/4/6/9 damage to all enemies close	2
+Jaws	Close	5	Grab on to one close enemy. They cannot move until you do	1
+Generator	Close	5	If you gain any charge, give one charge to an ally	0
+Cannon	Far	2	Target an enemy, it and all enemies close to it take 1/2/4/6/9 damage	3
+Drones	Near	4	Fully fix all sync hexes in one module for a Close ally	1
+Blaster	Far	2	Deal 1/2/4/6/9 damage to one Far enemy	3
+Graspers	Close	4	Throw something smaller than you to Near. It and anything you throw it at take 1/2/4/6/9 damage	3
+Lance	Near	3	Deal 1/2/4/6/9 damage to all enemies near in a line	3
+Blade	Close	4	Deal 2/4/6/9/12 damage to one close enemy	2
+Boosters	Close	5	Move one space	1
+Tail	Near	4	Knock over all close enemies. They must use their action to stand up	2
+Claws	Close	4	Deal 1/2/4/6/9 damage to one close enemy	1
+Quills	Far	3	Pin one Far enemy to the floor, they have to use their action to get up.	3
+Hammer	Close	4	Deal 1/2/4/6/9 damage to a close enemy and push them to Near	2
+Beak	Close	4	Roll a d6. Deal 1/1/2/4/6 damage to that many Close enemies	2
+Wings	Close	5	Make an attack against a Near enemy as though it is close	1
+Bombs	Far	2	Deal 1/1/2/4/6 damage to all enemies in one row	3
+Tongue	Far	3	Bring a Far enemy to Close	1
+Stinger/Fangs	Close	5	Poison one close enemy. They take 1/2/4/6/9 damage if they take an action	1
+Plating	Close	5	Take 1/2/4/6 less damage	0
+Legs	Close	5	Jump to anywhere	2
+EMP	Close	5	Deactivate one close enemy	2
+Hooves	Close	4	Move to Far. Any enemies in the line that you moved take 1/2/4/6/9 damage	3
+Shield	Close	5	Block an incoming attack, it does 2/4/6/9/12 less damage	1
