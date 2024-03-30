@@ -5,6 +5,21 @@ date: 2024-03-14
 category: Jekyll
 layout: post
 ---
+# Styles
+
+<div class="table-wrapper" markdown="block">
+
+|Style|Bonus|Malus|
+|:-:|:-:|:-:|
+|Scrap|Power|Precision|
+|Bulky|Power|Handling|
+|Sleek|Handling|Power|
+|Primal|Handling|Precision|
+|Energy|Precision|Handling|
+|Refined|Precision|Power|
+
+</div>
+
 # Frames
 <div>
 {% for row in site.data.Frames %}
