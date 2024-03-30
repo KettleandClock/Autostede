@@ -7,7 +7,7 @@ layout: post
 ---
 
 <div>
-{% for row in site.data.parts_list %}
+{% for row in site.data.Modules %}
     {% for pair in row %}
         {% if forloop.first %}
             <h2>{{ pair[1] }}</h2>
